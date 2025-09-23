@@ -1,0 +1,3 @@
+港澳频道,#genre#
+澳视澳门,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳门资讯,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
