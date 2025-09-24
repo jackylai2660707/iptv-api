@@ -3,5 +3,5 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
-澳門資訊台,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳廣視,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳門資訊台,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8$!
+澳廣視,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8$!
