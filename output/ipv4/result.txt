@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-12 06:15:49,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-10-12 18:16:25,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -20,6 +20,7 @@ CETV-4,http://223.167.245.215:8001/rtp/239.45.1.50:5140
 云南卫视,http://223.167.245.215:8001/rtp/239.45.0.4:5140
 
 ☘️广东频道,#genre#
+茂名综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9728&tk=a0c4f6cfaba3
 茂名公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7418&tk=a0c4f6cfaba3
 
 🌊港·澳·台,#genre#
@@ -42,3 +43,4 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
+靖天资讯,http://bvm.808848.xyz:50007/4gtv-4gtv065/index.m3u8
