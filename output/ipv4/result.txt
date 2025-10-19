@@ -1,17 +1,26 @@
 🕘️更新时间,#genre#
-2025-10-19 06:15:13,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-10-19 18:16:15,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳2,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
+CCTV-4,http://124.88.238.50:82/hls/4/index.m3u8
+CCTV-5,http://124.88.238.50:82/hls/5/index.m3u8
+CCTV-7,http://124.88.238.50:82/hls/7/index.m3u8
+CCTV-11,http://124.88.238.50:82/hls/10/index.m3u8
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+安徽卫视,http://124.88.238.50:82/hls/18/index.m3u8
+东方卫视,http://124.88.238.50:82/hls/15/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://124.88.238.50:82/hls/20/index.m3u8
+辽宁卫视,http://124.88.238.50:82/hls/21/index.m3u8
 西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
 
 ☘️广东频道,#genre#
@@ -20,8 +29,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
