@@ -1,20 +1,17 @@
 🕘️更新时间,#genre#
-2025-10-26 18:19:17,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-10-27 06:16:05,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳2,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-11,http://sh.lnott.top:880/dx11.m3u8
-CCTV-17,http://sh.lnott.top:880/dx17.m3u8
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://113.106.171.234:8899/rtp/239.20.0.90:3040
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-新疆卫视,http://113.106.171.234:8899/rtp/239.20.0.158:2114
 
 ☘️广东频道,#genre#
 
