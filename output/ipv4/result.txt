@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 18:17:17,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-11-01 06:14:51,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -17,7 +17,6 @@ CETV-4,http://116.179.149.157:6000/rtp/226.0.2.70:8472
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv
-陕西卫视,http://111.127.157.178:51234/rtp/239.29.1.86:5001
 
 ☘️广东频道,#genre#
 

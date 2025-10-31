@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jackylai2660707/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-10-31 18:17:17
+#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-11-01 06:14:51
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="自定义频道",澳1
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -23,8 +23,6 @@ http://113.106.171.234:8899/rtp/239.20.0.91:3036
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://111.127.157.178:51234/rtp/239.29.1.86:5001
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
