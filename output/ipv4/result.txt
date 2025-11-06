@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-06 18:19:23,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-11-07 06:16:10,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -8,9 +8,8 @@
 📺央视频道,#genre#
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-3,http://113.106.171.234:8899/rtp/239.20.0.236:2270
-CCTV-15,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv
-CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 CETV-1,http://223.10.81.133:8888/rtp/239.1.1.65:8065
+CETV-1,http://171.116.216.113:10010/rtp/226.0.2.181:9360
 CETV-2,http://223.10.81.133:8888/rtp/239.1.1.66:8066
 CETV-4,http://223.10.81.133:8888/rtp/239.1.1.67:8067
 
@@ -18,7 +17,6 @@ CETV-4,http://223.10.81.133:8888/rtp/239.1.1.67:8067
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
 
 ☘️广东频道,#genre#
 
