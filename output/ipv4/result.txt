@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:21:09,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-11-18 06:15:25,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
