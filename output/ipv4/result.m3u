@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jackylai2660707/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-11-19 06:15:55
+#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-11-19 18:18:03
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="自定义频道",澳1
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -7,8 +7,6 @@ https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://bxtv.3a.ink/migu.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://171.116.216.113:10010/rtp/226.0.1.157:3086
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -25,8 +23,6 @@ http://bxtv.3a.ink/migu.php?id=cctv4
 http://bxtv.3a.ink/migu.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://bxtv.3a.ink/migu.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://bxtv.3a.ink/migu.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
@@ -39,20 +35,10 @@ http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 http://bxtv.3a.ink/migu.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=gq
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://bxtv.3a.ink/migu.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://bxtv.3a.ink/migu.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://bxtv.3a.ink/migu.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://bxtv.3a.ink/migu.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://bxtv.3a.ink/migu.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://bxtv.3a.ink/migu.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
