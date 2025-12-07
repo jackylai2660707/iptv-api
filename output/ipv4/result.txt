@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 18:15:09,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2025-12-08 06:14:56,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -7,7 +7,6 @@
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
