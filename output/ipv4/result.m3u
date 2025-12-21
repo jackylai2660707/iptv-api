@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/jackylai2660707/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-12-21 06:15:03
+#EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="🕘️更新时间",2025-12-21 18:16:41
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-name="澳1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳1.png" group-title="自定义频道",澳1
 https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -11,8 +11,6 @@ http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://183.220.107.138:4022/rtp/239.11.0.109:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
@@ -25,8 +23,6 @@ http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 http://144.255.32.94:8288/rtp/239.21.2.3:5002
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://yp.qqqtv.top/1/api.php?id=CCTV-17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91&auth=666858
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
 http://116.237.37.244:8888/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV-1
