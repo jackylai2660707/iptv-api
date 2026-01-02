@@ -1,38 +1,21 @@
 🕘️更新时间,#genre#
-2026-01-02 18:19:07,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-01-03 06:16:43,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳2,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://sun135790.x3322.net:9901/tsfile/live/16009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://sun135790.x3322.net:9901/tsfile/live/16010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-4,http://sun135790.x3322.net:9901/tsfile/live/16011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://sun135790.x3322.net:9901/tsfile/live/16025_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://sun135790.x3322.net:9901/tsfile/live/16013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://sun135790.x3322.net:9901/tsfile/live/16014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://sun135790.x3322.net:9901/tsfile/live/16015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
-CCTV-11,http://sun135790.x3322.net:9901/tsfile/live/16018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://btjg.net:809/hls/43/index.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-湖北卫视,http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
-江西卫视,http://36.36.200.198:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://sun135790.x3322.net:9901/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://36.36.200.198:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://sun135790.x3322.net:9901/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://sun135790.x3322.net:9901/tsfile/live/16040_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
 
 ☘️广东频道,#genre#
 
