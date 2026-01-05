@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 18:20:42,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-01-06 06:17:00,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -7,7 +7,6 @@
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5fffe4d5ef1d5d3c94e4ee61cd25fe24
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 
 📡卫视频道,#genre#
