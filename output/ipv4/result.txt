@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-09 18:54:04,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-05-10 06:38:09,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -19,14 +19,11 @@ CCTV-14,http://101.66.195.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-东南卫视,http://101.66.198.11:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://101.66.198.136:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 青海卫视,http://198.204.228.26/live/qhws.m3u8
-山东卫视,http://101.66.198.11:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️广东频道,#genre#
 
