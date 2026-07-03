@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 07:00:04,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-07-03 20:06:20,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -17,18 +17,22 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+黑龙江卫视,https://live.264788.xyz/channel/heilongjiangweishi?streamid=43810153d9094bbea29e4ee654e3b919&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
+辽宁卫视,https://live.264788.xyz/channel/liaoningweishi?streamid=0c788b01c7fa1a38fee180bf3638a6ab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
+山东卫视,http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv
 山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://198.204.228.26/live/snwshd.m3u8
+陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 
 ☘️广东频道,#genre#
 
