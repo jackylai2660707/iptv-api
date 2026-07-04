@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 19:22:16,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-07-05 06:53:17,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -14,8 +14,8 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 
 📡卫视频道,#genre#
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
@@ -25,9 +25,8 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8
 
 ☘️广东频道,#genre#
 
