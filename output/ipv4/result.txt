@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-07-13 20:28:50,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-07-14 06:51:19,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳2,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
@@ -22,8 +21,8 @@ CCTV-12,http://www.negative.top:50000/rtp/233.50.200.21:5140
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 
