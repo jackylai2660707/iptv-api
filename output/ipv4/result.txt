@@ -1,19 +1,19 @@
 🕘️更新时间,#genre#
-2026-07-27 06:56:43,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+2026-07-27 20:54:04,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 自定义频道,#genre#
 澳1,https://locallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳2,https://locallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
-CCTV-5,http://171.8.169.42:8800/rtp/239.16.20.53:10530
-CCTV-5,http://1.192.240.185:8188/rtp/239.16.20.53:10530
 CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.14:5140
 CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.14:5140
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://171.8.169.42:8800/rtp/239.16.20.53:10530
 CCTV-5,http://114.226.212.140:8787/rtp/239.49.1.5:6000
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
 CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
 CCTV-5,http://114.226.212.135:8787/rtp/239.49.1.5:6000
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
@@ -52,10 +52,10 @@ CCTV-16,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16
 辽宁卫视,http://121.19.134.22:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHANDONG-HD-265-8M/G_SHANDONG-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 山东卫视,http://121.19.134.22:808/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-CQ/G_SICHUAN-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 深圳卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_SHENZHEN-HD-265-8M/G_SHENZHEN-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 天津卫视,http://120.201.232.170:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
-西藏卫视,http://121.19.134.22:808/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
